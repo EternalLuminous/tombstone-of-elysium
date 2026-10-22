@@ -8,3 +8,5 @@ Release binaries of the **Tombstone of Elysium (ToE) storage node** (`toed`) for
 - Supported: Linux x86_64 (static binary). More architectures will appear here when they are released.
 
 Installation is done from the ToE app, which generates the install script for your server.
+
+Release signing key (public): `EwO95QQuV765d8sA64krojYdZ93lGM0cOdbIF+xiqWg=`
